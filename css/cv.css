@@ -1,0 +1,15 @@
+#name {
+    font-size:2em;
+    font-weight: bold;
+}
+
+    .rightjust {
+        text-align:right;     
+    }
+    .aligntop{
+        vertical-align: top;
+    }
+       div {
+          display:inline-block;
+          width: 49%;
+                }
