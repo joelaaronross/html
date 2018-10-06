@@ -1,6 +1,8 @@
 #name {
     font-size:2em;
+    font-family: cursive
     font-weight: bold;
+    color: blue
 }
 
     .rightjust {
@@ -12,4 +14,5 @@
        div {
           display:inline-block;
           width: 49%;
+          color: red
                 }
