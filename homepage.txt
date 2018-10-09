@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Joel Ross Homepage</title>
+        <style>
+            span {
+                color:green;
+            }
+            .itsblue{
+                color:blue;
+            }
+            .doublesize{
+                font-size: 2em;
+            }
+        </style>
+    </head>
+    <body style="color:blue;font-size:1.5em;">
+        <!-- The body is here -->
+        <h1 style="font-family:'Times New Roman';color:purple;font-size:4em;">Joel Ross Homepage</h1>
+        <p> Welcome to the Ross homepage! We are glad you are here!</p><b />
+        <p> To see more about Joel Ross, please follow the below link: </p>
+        <a href="file:///C:/Repos/html/cv.html.com">
+                        Joel Ross Resume</a> 
+        
+        
+        <span class="itsblue doublesize">Sean Blessing</span>
+    </body>
+</html>

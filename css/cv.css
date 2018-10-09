@@ -1,8 +1,7 @@
 #name {
     font-size:2em;
-    font-family: cursive
-    font-weight: bold;
-    color: blue
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;   
 }
 
     .rightjust {
@@ -10,9 +9,33 @@
     }
     .aligntop{
         vertical-align: top;
+        font-size: 1.2em;
     }
-       div {
-          display:inline-block;
-          width: 49%;
-          color: red
-                }
+    .aligntop, .rightjust {
+        display:inline-block;
+        width: 49%;       
+              }
+
+table, tr, th, td {
+    border: 1px solid silver;
+    border-collapse: collapse;
+}
+tr {
+    border: 1px solid silver;
+}
+td{
+    text-align: center; 
+    width: 20%;   
+}
+table {
+    width:100%;
+}
+.role {
+    font-weight: bold;
+}
+.company {
+    font-style: italic;
+}
+.job-max {
+    color: red;
+}
